@@ -1,10 +1,7 @@
 ## HermitOtz
 A passionate Software Engineer / Full Stack Developer from Chile
+<img width="720" height="781" alt="perrito_abogado" src="https://github.com/user-attachments/assets/f9114377-3203-460b-b223-091123bd76a6" />
 
-<p align="center">
-  <img src="<img width="720" height="781" alt="perrito_abogado" src="https://github.com/user-attachments/assets/c149e12d-98d6-493d-a425-3a41a4027bdb" />
-" alt="Meme o foto central" width="300">
-</p>
 
 <!--
 **HermitOtz/HermitOtz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
