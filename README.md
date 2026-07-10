@@ -1,5 +1,6 @@
 ## HermitOtz
 A passionate Software Engineer / Full Stack Developer from Chile
+
 <img width="100" height="100" alt="perrito_abogado" src="https://github.com/user-attachments/assets/f9114377-3203-460b-b223-091123bd76a6" />
 
 
