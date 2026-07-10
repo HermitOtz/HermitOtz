@@ -5,7 +5,7 @@ A passionate Software Engineer / Full Stack Developer from Chile
 <p align="center">
   <img width="100" height="100" alt="perrito_abogado" src="https://github.com/user-attachments/assets/f9114377-3203-460b-b223-091123bd76a6" />
 </p>
-Computer engineer specializing in machine learning and full-stack systems integration for industrial food processing. I develop computer vision workflows for the automated measurement and grading of fish, and integrate them with SQL Server-based control systems (Matrix CS, ControlGrader) in implementations spanning multiple plants. My work includes troubleshooting at the firmware level (Marelec sorting hardware), SQL diagnostics in production, and end-to-end system implementation—from the database schema to camera calibration and label printing. I am currently responsible for the integration and development of IT projects at Laniks; and I also develop customized automation and software solutions for other clients in the salmon industry on the side.
+Computer Engineer specializing in Machine Learning and full-stack development. I build computer vision (YOLO, industrial cameras) and SQL-driven automation systems for salmon processing plants. Currently leading IT integration and development at Laniks, and building custom solutions for other companies on the side.
 
 <!--
 **HermitOtz/HermitOtz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
