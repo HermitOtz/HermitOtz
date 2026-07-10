@@ -1,4 +1,4 @@
-<img width="720" height="781" alt="image" src="https://github.com/user-attachments/assets/97564ee4-21ac-4dbc-b3e8-35f0d8e1025e" /><img width="720" height="781" alt="image" src="https://github.com/user-attachments/assets/71544910-259e-4f87-9d09-d6aaec7fe390" />## HermitOtz
+## HermitOtz
 A passionate Software Engineer / Full Stack Developer from Chile
 
 <p align="center">
