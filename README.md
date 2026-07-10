@@ -1,4 +1,10 @@
-## Hi there 👋
+<img width="720" height="781" alt="image" src="https://github.com/user-attachments/assets/97564ee4-21ac-4dbc-b3e8-35f0d8e1025e" /><img width="720" height="781" alt="image" src="https://github.com/user-attachments/assets/71544910-259e-4f87-9d09-d6aaec7fe390" />## HermitOtz
+A passionate Software Engineer / Full Stack Developer from Chile
+
+<p align="center">
+  <img src="<img width="720" height="781" alt="perrito_abogado" src="https://github.com/user-attachments/assets/c149e12d-98d6-493d-a425-3a41a4027bdb" />
+" alt="Meme o foto central" width="300">
+</p>
 
 <!--
 **HermitOtz/HermitOtz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
