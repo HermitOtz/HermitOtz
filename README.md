@@ -1,6 +1,5 @@
-<p align="center">
 ## HermitOtz
-  
+<p align="center">  
 A passionate Software Engineer / Full Stack Developer from Chile
 </p>
 <p align="center">
